@@ -1,0 +1,6 @@
+{
+  "name": "BookLoop 2.0",
+  "description": "Smart Community Knowledge-Sharing Ecosystem with QR Book Passport, Smart Book Match, AI Book Scanner, and CEP Impact Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
